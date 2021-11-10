@@ -1,0 +1,17 @@
+{
+  "name": "subpackage",
+  "description": "need to test Cachito with npm dependencies",
+  "version": "1.0.0",
+  "author": "Elina Akhmanova <eakhmano@redhat.com>",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "index.js"
+  ],
+  "main": "./index.js",
+  "keywords": [
+    "cachito",
+    "test"
+  ]
+}
