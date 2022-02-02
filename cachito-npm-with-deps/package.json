@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "dependencies": {
     "chai": "4.2.0",
-    "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz",
-    "test-npm-dep": "https://elinah@bitbucket.org/elinah/test-npm-dep.git",
-    "cachito-npm-without-deps": "github:cachito-testing/cachito-npm-without-deps.git"
+    "is-positive": "github:kevva/is-positive.git",
+    "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz"
   },
   "devDependencies": {
-    "npm-test-project": "git+https://gitlab.com/eakhmano-test-group/eakhmano-test-subgroup/subsubgroup/npm-test-project.git"
+    "cachito-npm-without-deps": "git+https://github.com/cachito-testing/cachito-npm-without-deps.git"
   }
 }
